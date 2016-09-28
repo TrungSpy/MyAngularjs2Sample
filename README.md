@@ -1,4 +1,16 @@
 # MyAngular2App
+## Environment Setting
+
+```
+npm install -g grunt-cli
+sudo npm install npm@latest -g
+npm install -g angular-cli
+
+```
+<br>reference soure</br> :
+http://qiita.com/kitfactory/items/c95ca84371670b21f4ac?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=f7d014d5e1-Qiita_newsletter_227_09_28_2016&utm_medium=email&utm_term=0_e44feaa081-f7d014d5e1-33266265
+
+http://qiita.com/okoysm/items/ced3c3de30af1035242d
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.16.
 
@@ -19,7 +31,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/). 
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 Before running the tests make sure you are serving the app via `ng serve`.
 
 ## Deploying to Github Pages
