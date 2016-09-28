@@ -7,7 +7,8 @@ describe('App: MyAngular2App', () => {
   beforeEach(() => {
     TestBed.configureTestingModule({
       declarations: [
-        AppComponent
+        AppComponent,
+        HelloComponent
       ],
     });
   });
