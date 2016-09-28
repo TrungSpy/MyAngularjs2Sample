@@ -1,4 +1,5 @@
 # MyAngular2App
+<img src = "https://github.com/TrungSpy/MyAngularjs2Sample/blob/master/screenshot.png"  height= "280" />&nbsp; 
 ## Environment Setting
 
 ```
